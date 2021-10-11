@@ -1,9 +1,20 @@
-# rich-typer-test
+# minimal rich typer cli
 
+a minimal example of using [typer](https://typer.tiangolo.com/) and [rich](https://github.com/willmcgugan/rich)
+to create little CLI tools
 
-[![PyPI](https://img.shields.io/pypi/v/rich-typer-test.svg?color=green)](https://pypi.org/project/rich-typer-test)
-[![Python Version](https://img.shields.io/pypi/pyversions/rich-typer-test.svg?color=green)](https://python.org)
-[![CI](https://github.com/alisterburt/rich-typer-test/workflows/ci/badge.svg)](https://github.com/alisterburt/rich-typer-test/actions)
-[![codecov](https://codecov.io/gh/alisterburt/rich-typer-test/branch/master/graph/badge.svg)](https://codecov.io/gh/alisterburt/rich-typer-test)
+```sh
+pip install -e .
+```
 
-package description.
+Two example programs
+```sh
+single_command
+```
+[example output](./single_command_output.html)
+
+```sh
+multi_command
+```
+[example output](./multi_command_output.html)
+
