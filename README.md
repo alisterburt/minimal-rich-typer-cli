@@ -11,10 +11,10 @@ Two example programs
 ```sh
 single_command
 ```
-[example output](./single_command_output.html)
+[example output](https://htmlpreview.github.io/https://github.com/alisterburt/minimal-rich-typer-cli/blob/master/single_command_output.html)
 
 ```sh
 multi_command
 ```
-[example output](./multi_command_output.html)
+[example output](https://htmlpreview.github.io/https://github.com/alisterburt/minimal-rich-typer-cli/blob/master/multi_command_output.html)
 
