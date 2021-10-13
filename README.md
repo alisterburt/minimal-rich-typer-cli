@@ -1,7 +1,6 @@
 # minimal rich typer cli
 
-a minimal example of using [typer](https://typer.tiangolo.com/) and [rich](https://github.com/willmcgugan/rich)
-to create little CLI tools that can be pip installed
+a minimal example of a pip installable CLI tool using [typer](https://typer.tiangolo.com/) and [rich](https://github.com/willmcgugan/rich).
 
 ```sh
 pip install -e .
